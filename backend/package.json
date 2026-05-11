@@ -1,7 +1,7 @@
 {
   "name": "ai-quiz-backend",
   "version": "1.0.0",
-  "description": "Node.js/Express backend for the AI quiz app, powered by OpenRouter.",
+  "description": "Node.js/Express backend for the AI quiz app.",
   "type": "module",
   "main": "src/server.js",
   "scripts": {
